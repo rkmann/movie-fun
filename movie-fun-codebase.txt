@@ -1,1 +1,1 @@
-movie-fun codebase new
+movie-fun codebase
